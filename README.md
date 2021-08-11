@@ -17,10 +17,19 @@ Here are some ideas to get you started:
 
 
 
-Perkenalkan nama saya **Ilham Wisnu P.W.**
+Perkenalkan nama saya **Ilham Wisnu P.W.**  
+Saya seorang mahasiswa Informatika di Universitas Jember      
 
-Saya seorang mahasiswa Informatika di Universitas Jember  
   
-You can reach me via my [Linkedin](https://www.linkedin.com/in/ilham-wisnu-2769b1210/) 
+**Github Statistics**
+<p align="left">
+<a href="https://github.com/ilhmwisnu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhmwisnu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhmwisnu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<br>  
+
+You can reach me via my [Linkedin](https://www.linkedin.com/in/ilham-wisnu-2769b1210/)  
 
 
