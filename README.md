@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Ilham Wisnu
-Informatics Student at Jember University
+I'm Ilham Wisnu  
+Informatics Student at Jember University  
 
 🌱 I’m currently learning about Flutter
 <!--
