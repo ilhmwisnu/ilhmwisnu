@@ -1,10 +1,11 @@
 ### Hi there 👋
+I'm Ilham Wisnu
+Informatics Student at Jember University
 
+🌱 I’m currently learning about Flutter
 <!--
 **ilhmwisnu/ilhmwisnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,8 +18,8 @@ Here are some ideas to get you started:
 
 
 
-Perkenalkan nama saya **Ilham Wisnu P.W.**  
-Saya seorang mahasiswa Informatika di Universitas Jember      
+<!-- Perkenalkan nama saya **Ilham Wisnu P.W.**  
+Saya seorang mahasiswa Informatika di Universitas Jember       -->
 
 <!--  
 **Github Statistics**
