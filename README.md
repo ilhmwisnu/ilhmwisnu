@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!-- Perkenalkan nama saya **Ilham Wisnu P.W.**  
 Saya seorang mahasiswa Informatika di Universitas Jember       -->
 
-
+<!-- 
 **Github Statistics**
 <p align="left">
 <a href="https://github.com/ilhmwisnu">
@@ -30,8 +30,8 @@ Saya seorang mahasiswa Informatika di Universitas Jember       -->
 </p>
 
 <br>  
-
-You can reach me via my [Linkedin](https://www.linkedin.com/in/ilham-wisnu-2769b1210/)  
+ -->
+<!-- You can reach me via my [Linkedin](https://www.linkedin.com/in/ilham-wisnu-2769b1210/)   -->
 
 
  -->
