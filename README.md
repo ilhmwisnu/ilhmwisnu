@@ -3,7 +3,7 @@
 
 - ⚙️ I use: `Flutter`, `ExpressJS`, `ReactJS`, `NextJS`
 - ⭐️ I have some experience in Mobile App Development
-- 🤝🏼 Let's connect on [Linked In](https://www.linkedin.com/in/ilhmwisnu)
+- 🤝🏼 Let's connect on [LinkedIn](https://www.linkedin.com/in/ilhmwisnu)
 
 **My Github Statistics**
 <p align="left">
