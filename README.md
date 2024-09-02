@@ -1,5 +1,5 @@
 ### Hi 👋 
-#### I'm Wisnu - a Web and Mobile Developer
+#### I'm Wisnu - a Mobile Developer that sometimes makes a website
 
 - ⚙️ I use: `Flutter`, `ExpressJS`, `ReactJS`, `NextJS`
 - ⭐️ I have some experience in Mobile App Development
