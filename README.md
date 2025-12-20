@@ -1,14 +1,14 @@
-### Hi 👋 
-#### I'm Wisnu - a Mobile Developer that sometimes makes a website
+# Hi there 👋
 
-- ⚙️ I use: `Flutter`, `ExpressJS`, `ReactJS`, `NextJS`
-- ⭐️ I have some experience in Mobile App Development
-- 🤝🏼 Let's connect on [LinkedIn](https://www.linkedin.com/in/ilhmwisnu)
+I’m a **Full Stack Mobile Engineer** who enjoys building products end-to-end — from user interfaces to backend systems.
 
-**My Github Statistics**
-<p align="left">
-<a href="https://github.com/ilhmwisnu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ilhmwisnu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ilhmwisnu&layout=compact&langs_count=8&theme=vue"/>
-</a>
-</p>
+## 🚀 Vision
+My vision is to build **maintainable, scalable, and well-structured software systems** that can grow with real-world needs and long-term usage.
 
+## 🛠 Tech Stack
+- **Mobile:** Flutter, Swift
+- **Frontend:** React.js
+- **Backend:** Express.js
+
+## 🤝 Let’s Connect
+You can reach out to me via **[LinkedIn](https://www.linkedin.com/in/ilhmwisnu/)** for collaboration, opportunities, or just to connect.
